@@ -55,7 +55,7 @@ function App() {
       
       {/* Navigation Bar */}
       <nav className="flex justify-between items-center bg-blue-600 p-4 text-white">
-        <div className="text-xl font-bold">Nama Kamu</div>
+        <div className="text-xl font-bold">Isyana Trevia Pohaci</div>
         <div className="flex gap-4">
           <a href="#" className="hover:underline">Home</a>
           <a href="#" className="hover:underline">Profile</a>
